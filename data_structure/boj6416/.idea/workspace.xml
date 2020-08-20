@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="indexTree" targetName="indexTree" />
+      <config projectName="boj6416" targetName="boj6416" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,11 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32c2fd2a-6b3d-4aec-a65c-30b742f7ab52" name="Default Changelist" comment="">
+    <list default="true" id="0ff0fe44-2cf6-43c3-aa8f-2620e075988d" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../boj9202/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../graph1/boj2252/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../number_theory/boj1837/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,16 +33,30 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="164">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#1#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/istream">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15519">
+              <caret line="739" selection-start-line="739" selection-end-line="739" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cout</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -57,9 +69,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="106" />
-    <option name="y" value="23" />
-    <option name="width" value="925" />
+    <option name="x" value="673" />
+    <option name="y" value="55" />
+    <option name="width" value="767" />
     <option name="height" value="806" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -90,7 +102,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="indexTree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="indexTree" TARGET_NAME="indexTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="indexTree" RUN_TARGET_NAME="indexTree">
+    <configuration name="boj6416" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="boj6416" TARGET_NAME="boj6416" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="boj6416" RUN_TARGET_NAME="boj6416">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -101,29 +113,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="32c2fd2a-6b3d-4aec-a65c-30b742f7ab52" name="Default Changelist" comment="" />
-      <created>1597213807262</created>
+      <changelist id="0ff0fe44-2cf6-43c3-aa8f-2620e075988d" name="Default Changelist" comment="" />
+      <created>1597566382712</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597213807262</updated>
-      <workItem from="1597213808824" duration="10246000" />
-      <workItem from="1597804001992" duration="46000" />
+      <updated>1597566382712</updated>
+      <workItem from="1597566384271" duration="9579000" />
+      <workItem from="1597596238898" duration="3000" />
+      <workItem from="1597656872707" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10292000" />
+    <option name="totallyTimeSpent" value="9585000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="106" y="23" width="925" height="806" extended-state="0" />
+    <frame x="673" y="55" width="767" height="806" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.032432433" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14211212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27955493" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27816412" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -147,12 +160,19 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/istream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15519">
+          <caret line="739" selection-start-line="739" selection-end-line="739" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="164">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
