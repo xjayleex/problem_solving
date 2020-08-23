@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/samsungsds_algorithm/graph1/boj2458/main.cpp
+iostream
+-
+
