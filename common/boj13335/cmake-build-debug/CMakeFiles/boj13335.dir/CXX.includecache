@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ijaehyeon/Desktop/MyDocuments/gitblog/samsungsds_algorithm/common/boj13335/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+
